@@ -2,5 +2,6 @@ export { fetchCityAndCinemasData } from "./dynamic-cinemas"
 export {
   getCities,
   getCityCinemas,
-  getCinemaData,
+  getCinemaData, // really required?
+  getFilmsFromCinema,
 } from "./cities"
